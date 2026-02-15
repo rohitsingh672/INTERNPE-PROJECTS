@@ -1,5 +1,4 @@
-<b>
-INTERNPE
+<b>INTERNPE
 Projects
 
 🔹 Task 1 – Digital Clock Application
