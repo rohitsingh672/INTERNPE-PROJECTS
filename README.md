@@ -1,4 +1,4 @@
-<b>INTERNPE
+# INTERNPE
 Projects
 
 🔹 Task 1 – Digital Clock Application
@@ -44,4 +44,3 @@ Python
 Tkinter (GUI)
 
 Pygame (if used for Snake Game)
-</b>
