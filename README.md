@@ -1,3 +1,4 @@
+<b>
 INTERNPE
 Projects
 
@@ -44,3 +45,4 @@ Python
 Tkinter (GUI)
 
 Pygame (if used for Snake Game)
+</b>
